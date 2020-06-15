@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url("mapa_vjezbe/isjecak 1.jpg");
+}
+a link{
+	color: cornsilk;
+	background-color: gray;
+	padding: 5px;
+	line-height: 25 px;
+	boarder:1px solid #000000;
+		
+}
